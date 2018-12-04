@@ -25,3 +25,11 @@ Voici les fonctionnalités auxquelles ton API devra répondre :
     PUT - Toggle du booléen
     DELETE - Suppression d'une entité
     DELETE - Suppression de toutes les entités dont le booléen est false
+
+Critéres de validation
+
+    Ton API contient les 11 routes définies précédemment
+        Ton application est hébergée sur Git.
+        Poste le lien vers ton repository Git en tant que solution.
+
+
